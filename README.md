@@ -20,6 +20,8 @@ The repository contains two main folders:
 - **Reliable Range:** Consistent connectivity throughout a typical home environment
 
 ## Video Tutorial
+![ESPNOW Weather Station](preview.jpg)
+
 🎥 [Watch the Full Video Tutorial](https://youtu.be/WQLXYT9Z1BI)
 
 ## Parts List
